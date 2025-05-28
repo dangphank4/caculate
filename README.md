@@ -1,8 +1,6 @@
-Calculator
-Ứng dụng máy tính đơn giản với giao diện thân thiện, hỗ trợ các phép toán cơ bản và một số chức năng nâng cao.
+Calculator: Ứng dụng máy tính đơn giản với giao diện thân thiện, hỗ trợ các phép toán cơ bản và một số chức năng nâng cao.
 
-Giới thiệu
-Calculator là ứng dụng máy tính được thiết kế để thực hiện các phép toán số học cơ bản như cộng, trừ, nhân, chia, cùng với các phép toán nâng cao như xử lý biểu thức.
+Giới thiệu: Calculator là ứng dụng máy tính được thiết kế để thực hiện các phép toán số học cơ bản như cộng, trừ, nhân, chia, cùng với các phép toán nâng cao như xử lý biểu thức.
 
 Tính năng
 ➕➖✖️➗ Cộng, trừ, nhân, chia
@@ -14,8 +12,7 @@ Công nghệ sử dụng
 Ngôn ngữ: Kotlin 
 UI: XML
 
-Cài đặt
-Cách 1: Clone dự án
+Cài đặt: Clone dự án
 git clone https://github.com/phandangk4/calculate.git
 cd calculate
 
