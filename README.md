@@ -16,7 +16,7 @@ UI: XML
 
 # Cài đặt
 Clone dự án:
-git clone https://github.com/phandangk4/calculate.git
+git clone https://github.com/dangphank4/calculate.git
 cd calculate
 
 Mở dự án bằng Android Studio
